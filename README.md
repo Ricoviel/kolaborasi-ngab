@@ -10,3 +10,7 @@ Memahami pentingnya olahraga
 Memahami kebersihan
 memahami kepekaan
 baik dan sejahtera
+<hr>
+- Menggunakan squash <br>
+- Menggunakan squash merge <br>
+- Dan masih banyak hal lainnya <br>
