@@ -5,3 +5,7 @@ Memahami cara kolaborasi yang baik di dalam github
 - Menerima undangan <br>
 - Menolak undangan <br>
 - Menggabungkan commit <br>
+<hr>
+- Percobaan 1 <br>
+- Percobaan 2 <br>
+- Percobaan 3 <br>
